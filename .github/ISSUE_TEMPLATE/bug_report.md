@@ -1,4 +1,4 @@
-[bug_report.md](https://github.com/user-attachments/files/31885600/bug_report.md)
+
 ---
 name: Bug report
 about: Report a reproducible problem
