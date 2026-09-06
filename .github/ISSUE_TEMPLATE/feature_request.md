@@ -1,4 +1,4 @@
-[feature_request.md](https://github.com/user-attachments/files/31885621/feature_request.md)
+
 ---
 name: Feature suggestion
 about: Suggest an improvement
