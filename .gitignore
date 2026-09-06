@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.exe
+*.dll
+*.pdb
+*.zip
+Game_Response_Report_*.csv
+Orbit_Bridge_Report_*.txt
+.env
+.env.*
+.venv/
+venv/
+*.log
+.DS_Store
+Thumbs.db
