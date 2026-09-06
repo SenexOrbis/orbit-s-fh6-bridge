@@ -1,4 +1,3 @@
-
 ---
 name: Feature suggestion
 about: Suggest an improvement
